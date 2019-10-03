@@ -23,3 +23,5 @@ The arcade.check_for_collision_with_list(sprite, spriteList) method takes a spri
 self.player.kill() will remove the player sprite. .kill() can be (similarly) used to remove any sprite.
 
 As always, let me know if you have any questions.
+
+This game is about hitting the penguins and when they die, the player get the points. For each penguin can be hitted for ten times. After the penguin disappear, the player get a hundred points. 
